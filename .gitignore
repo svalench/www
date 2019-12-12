@@ -1,0 +1,7 @@
+**__pycache__/
+.idea/
+**/migrations
+/static
+/media
+/venv
+db.sqlite3
